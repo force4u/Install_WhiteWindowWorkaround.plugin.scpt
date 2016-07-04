@@ -1,0 +1,2 @@
+# Install_WhiteWindowWorkaround.plugin.scpt
+WhiteWindowWorkaround.pluginをインストールします
